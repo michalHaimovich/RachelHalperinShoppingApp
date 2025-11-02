@@ -25,7 +25,8 @@ namespace ShoppingApp.Data
                 new Category { Id = 4, Name = "Meat" },
                 new Category { Id = 5, Name = "Produce" },
                 new Category { Id = 6, Name = "Household" },
-                new Category { Id = 7, Name = "Electronics" }
+                new Category { Id = 7, Name = "Electronics" },
+                new Category (Id =10,Name ="bla bla")
             );
 
             base.OnModelCreating(modelBuilder);

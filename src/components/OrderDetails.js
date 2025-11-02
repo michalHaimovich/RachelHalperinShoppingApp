@@ -80,6 +80,7 @@ function OrderDetails() {
             <label className="block text-sm font-medium mb-1" htmlFor="fullName">
               Full Name *
             </label>
+
             <input
               type="text"
               id="fullName"
@@ -89,6 +90,18 @@ function OrderDetails() {
               onChange={handleChange}
               required
             />
+            <label className="block text-sm font-medium mb-1" htmlFor="fullName">
+              Phone Number * 
+
+            </label>
+            
+            <input
+            type="number"
+
+            />
+            
+            
+
           </div>
           
           <div className="mb-4">

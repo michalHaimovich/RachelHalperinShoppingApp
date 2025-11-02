@@ -6,6 +6,7 @@ import { selectItems } from '../features/cart/cartSlice';
 function Header() {
   const items = useSelector(selectItems);
   const location = useLocation();
+  const name="dvoraHalevi";
   const tamarrotan= "hello tamar!"
 const tamar2="good luck!!!!!"
 

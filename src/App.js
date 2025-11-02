@@ -8,17 +8,7 @@ import Header from './components/Header';
 
 function App() {
   return (
-    <Provider store={store}>
-      <Router>
-        <div className="app-container">
-          <Header />
-          <Routes>
-            <Route path="/" element={<ShoppingList />} />
-            <Route path="/order" element={<OrderDetails />} />
-          </Routes>
-        </div>
-      </Router>
-    </Provider>
+   <h1>ldeoutwutututututututttttttttttttttttttttttttttt</h1>
   );
 }
 

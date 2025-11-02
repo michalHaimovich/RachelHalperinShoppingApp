@@ -18,6 +18,8 @@ const tamar2="good luck!!!!!"
         <h2 className="text-2xl font-bold">Hello to our Shopping</h2>
         <h1 className="text-2xl font-bold">Naama & Tovi</h1>
         <h1 className="text-2xl font-bold">Shopping App</h1>
+        <h1 className="text-2xl font-bold">another App</h1>
+
         <h1 className >hello </h1>
         <h1>{tamarrotan}</h1>
         <nav className="flex space-x-6">
